@@ -1,2 +1,4 @@
 this is not a log file
 
+
+this is a dirty file and i want to stash it
