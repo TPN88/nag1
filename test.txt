@@ -1,3 +1,2 @@
 this is not a log file
 
-and this is from nag2
